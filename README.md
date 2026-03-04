@@ -1,9 +1,7 @@
 # HRBroadcast - 心率广播
 
 一款运行在 Wear OS 智能手表上的心率广播应用，通过 BLE（低功耗蓝牙）将实时心率数据广播给外部设备。
-完整版功耗更大，若被系统杀进程了，可以使用精简版
-
-> 可以使用精简版：[HRBroadcastLite](https://github.com/H1d3rOne/HRBroadcastLite)
+完整版功耗更大，若被系统杀进程了，可以使用精简版[HRBroadcastLite](https://github.com/H1d3rOne/HRBroadcastLite)
 
 ## 目录
 
