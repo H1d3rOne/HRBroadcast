@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">心率广播</string>
+    <string name="title">心率广播</string>
+    <string name="heart_rate_label">心率</string>
+    <string name="heart_rate_unit">BPM</string>
+    <string name="no_heart_rate">--</string>
+    <string name="watch_not_worn">手表未佩戴</string>
+    <string name="measuring">测量中...</string>
+    <string name="start_broadcast">开启广播</string>
+    <string name="stop_broadcast">停止广播</string>
+    <string name="broadcasting">正在广播...</string>
+    <string name="ble_not_supported">设备不支持BLE</string>
+    <string name="permission_required">需要权限</string>
+</resources>

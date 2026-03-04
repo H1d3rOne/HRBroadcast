@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#1A1A2E</color>
+    <color name="heart_rate_text">#FF6B6B</color>
+    <color name="unit_text">#AAAAAA</color>
+    <color name="status_text">#FFFFFF</color>
+    <color name="accent">#4ECDC4</color>
+    <color name="ic_launcher_background">#FFFFFF</color>
+</resources>
